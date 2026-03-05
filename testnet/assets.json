@@ -15,7 +15,15 @@
         "github": "https://github.com/tokenize-x/tx-chain",
         "whitepaper": "https://download.tx.org/Whitepaper.pdf"
       },
-      "social_media": {},
+      "social_media": {
+        "linkedin": "https://www.linkedin.com/company/tx-ecosystem/",
+        "twitter": "https://x.com/txEcosystem",
+        "instagram": "https://www.instagram.com/txecosystem?igsh=MTk4MmpmdmtoaWx4Mg==",
+        "discord": "https://discord.gg/4Qr2jpMVCY",
+        "youtube": "https://www.youtube.com/@txEcosystem",
+        "telegram": "https://t.me/+q0fGCpknxeRjMTVh",
+        "medium": "https://medium.com/@txEcosystem"
+      },
       "extra": {}
     },
     {

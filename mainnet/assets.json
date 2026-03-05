@@ -16,6 +16,13 @@
         "whitepaper": "https://download.tx.org/Whitepaper.pdf"
       },
       "social_media": {
+        "linkedin": "https://www.linkedin.com/company/tx-ecosystem/",
+        "twitter": "https://x.com/txEcosystem",
+        "instagram": "https://www.instagram.com/txecosystem?igsh=MTk4MmpmdmtoaWx4Mg==",
+        "discord": "https://discord.gg/4Qr2jpMVCY",
+        "youtube": "https://www.youtube.com/@txEcosystem",
+        "telegram": "https://t.me/+q0fGCpknxeRjMTVh",
+        "medium": "https://medium.com/@txEcosystem"
       },
       "extra": {
         "xrpl_info": {
@@ -1011,6 +1018,48 @@
         "discord": ""
       },
       "extra": {}
+    },
+    {
+      "denom": "",
+      "token_name": "",
+      "decimals": 6,
+      "description": "",
+      "ibc_info": {},
+      "logo_URIs": {
+        "png": "",
+        "svg": ""
+      },
+      "urls": {},
+      "social_media": {},
+      "extra": {
+        "xrpl_info": {
+          "precision": 15,
+          "source_chain": "XRPL",
+          "issuer": "",
+          "currency": "636F7265756D3465386661386561623000000000"
+        }
+      }
+    },
+    {
+      "denom": "",
+      "token_name": "",
+      "decimals": 6,
+      "description": "",
+      "ibc_info": {},
+      "logo_URIs": {
+        "png": "",
+        "svg": ""
+      },
+      "urls": {},
+      "social_media": {},
+      "extra": {
+        "xrpl_info": {
+          "precision": 15,
+          "source_chain": "XRPL",
+          "issuer": "",
+          "currency": "636F7265756D3031626463663563663600000000"
+        }
+      }
     }
   ]
 }
