@@ -1,14 +1,12 @@
-# Token Registry for XRPL-Coreum Bridge
+# Token Registry
 
 ## Overview
-This repository is an open-source initiative designed to facilitate the registration of tokens from the XRPL, Coreum, and Cosmos ecosystems for use on the XRPL-Coreum Bridge. The registry supports tokens on Devnet, Testnet, and Mainnet environments.
-
-![XRPL Image](./assets/xrpl.jpg)
+This repository is an open-source initiative designed to facilitate the registration of tokens from the XRPL, TX, and Cosmos ecosystems for use on the XRPL-Coreum Bridge. The registry supports tokens on Devnet, Testnet, and Mainnet environments.
 
 
 ## Supported Networks
 - **XRPL**: XRP Ledger
-- **Coreum**: Coreum Blockchain
+- **Coreum**: TX Blockchain
 - **Cosmos**: Cosmos Ecosystem
 
 ## Repository Structure
@@ -58,7 +56,7 @@ Here are examples of how to structure your JSON entries for token registration:
 ```
 
 
-### Coreum / Cosmos Originated Asset - OSMO from Osmosis
+### TX / Cosmos Originated Asset - OSMO from Osmosis
 The following JSON structure represents the essential metadata for OSMO as it is used across networks:
 ```json
 {

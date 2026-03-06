@@ -15,8 +15,23 @@
         "github": "https://github.com/tokenize-x/tx-chain",
         "whitepaper": "https://download.tx.org/Whitepaper.pdf"
       },
-      "social_media": {},
-      "extra": {}
+      "social_media": {
+        "linkedin": "https://www.linkedin.com/company/tx-ecosystem/",
+        "twitter": "https://x.com/txEcosystem",
+        "instagram": "https://www.instagram.com/txecosystem?igsh=MTk4MmpmdmtoaWx4Mg==",
+        "discord": "https://discord.gg/4Qr2jpMVCY",
+        "youtube": "https://www.youtube.com/@txEcosystem",
+        "telegram": "https://t.me/+q0fGCpknxeRjMTVh",
+        "medium": "https://medium.com/@txEcosystem"
+      },
+      "extra": {
+        "xrpl_info": {
+          "precision": 15,
+          "source_chain": "TX",
+          "issuer": "rf3ToWA2cULJM2tskHVvmxzyeu4HuKWBwk",
+          "currency": "636F7265756D3763386562323965303700000000"
+        }
+      }
     },
     {
       "denom": "drop-testcore1d90zv8wrwsalluqcezca22zds3dzvjj06fs0v88sh6shhven8pjsgq539p",
@@ -119,8 +134,8 @@
         "xrpl_info": {
           "precision": 15,
           "source_chain": "Osmosis",
-          "issuer": "testcore16sgampgtngjsmnj8zwz6h8zmh26nv2rs5kl72fuxkrzru5y5caxq82y4s5",
-          "currency": "636F7265756D3164663537323732383700000000"
+          "issuer": "rf3ToWA2cULJM2tskHVvmxzyeu4HuKWBwk",
+          "currency": "636F7265756D3031626463663563663600000000"
         }
       }
     },

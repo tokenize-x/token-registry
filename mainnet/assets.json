@@ -2,33 +2,32 @@
   "assets": [
     {
       "denom": "ucore",
-      "token_name": "COREUM",
+      "token_name": "TX",
       "decimals": 6,
-      "description": "COREUM is the native utility token of the Coreum blockchain, used for transaction fees, staking, and governance within the network. It powers all on-chain activities and secures the ecosystem through its Bonded Proof of Stake mechanism.",
+      "description": "TX is the native utility token of the TX blockchain, used for transaction fees, staking, and governance within the network. It powers all on-chain activities and secures the ecosystem through its Bonded Proof of Stake mechanism.",
       "ibc_info": {},
       "logo_URIs": {
-        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/coreum/images/coreum.png",
-        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/coreum/images/coreum.svg"
+        "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/tx/images/tx.png",
+        "svg": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/tx/images/tx.svg"
       },
       "urls": {
-        "website": "https://www.coreum.com/",
-        "github": "https://github.com/CoreumFoundation/coreum",
-        "whitepaper": "https://www.coreum.com/assets/coreum_technical_paper.pdf"
+        "website": "https://tx.org/",
+        "github": "https://github.com/tokenize-x/tx-chain",
+        "whitepaper": "https://download.tx.org/Whitepaper.pdf"
       },
       "social_media": {
-        "linkedin": "https://www.linkedin.com/company/coreumofficial",
-        "twitter": "https://twitter.com/CoreumOfficial",
-        "instagram": "https://www.instagram.com/coreum.official/",
-        "facebook": "https://www.facebook.com/coreum_official",
-        "discord": "https://discord.gg/XdVAGKXEhg",
-        "youtube": "https://www.youtube.com/channel/UCIFix5W3gRgA4mSiXE268IA",
-        "telegram": "https://t.me/CoreumOfficial",
-        "tiktok": "https://www.tiktok.com/@sologenic.official"
+        "linkedin": "https://www.linkedin.com/company/tx-ecosystem/",
+        "twitter": "https://x.com/txEcosystem",
+        "instagram": "https://www.instagram.com/txecosystem?igsh=MTk4MmpmdmtoaWx4Mg==",
+        "discord": "https://discord.gg/4Qr2jpMVCY",
+        "youtube": "https://www.youtube.com/@txEcosystem",
+        "telegram": "https://t.me/+q0fGCpknxeRjMTVh",
+        "medium": "https://medium.com/@txEcosystem"
       },
       "extra": {
         "xrpl_info": {
           "precision": 15,
-          "source_chain": "Coreum",
+          "source_chain": "TX",
           "issuer": "rxXXXeMX8Gy5YvibvGLnQJ1XKKD7UswM1",
           "currency": "636F7265756D3763386562323965303700000000"
         }
@@ -1019,6 +1018,48 @@
         "discord": ""
       },
       "extra": {}
+    },
+    {
+      "denom": "",
+      "token_name": "",
+      "decimals": 6,
+      "description": "",
+      "ibc_info": {},
+      "logo_URIs": {
+        "png": "",
+        "svg": ""
+      },
+      "urls": {},
+      "social_media": {},
+      "extra": {
+        "xrpl_info": {
+          "precision": 15,
+          "source_chain": "XRPL",
+          "issuer": "",
+          "currency": "636F7265756D3465386661386561623000000000"
+        }
+      }
+    },
+    {
+      "denom": "",
+      "token_name": "",
+      "decimals": 6,
+      "description": "",
+      "ibc_info": {},
+      "logo_URIs": {
+        "png": "",
+        "svg": ""
+      },
+      "urls": {},
+      "social_media": {},
+      "extra": {
+        "xrpl_info": {
+          "precision": 15,
+          "source_chain": "XRPL",
+          "issuer": "",
+          "currency": "636F7265756D3031626463663563663600000000"
+        }
+      }
     }
   ]
 }
