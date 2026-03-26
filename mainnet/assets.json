@@ -1018,48 +1018,6 @@
         "discord": ""
       },
       "extra": {}
-    },
-    {
-      "denom": "",
-      "token_name": "",
-      "decimals": 6,
-      "description": "",
-      "ibc_info": {},
-      "logo_URIs": {
-        "png": "",
-        "svg": ""
-      },
-      "urls": {},
-      "social_media": {},
-      "extra": {
-        "xrpl_info": {
-          "precision": 15,
-          "source_chain": "XRPL",
-          "issuer": "",
-          "currency": "636F7265756D3465386661386561623000000000"
-        }
-      }
-    },
-    {
-      "denom": "",
-      "token_name": "",
-      "decimals": 6,
-      "description": "",
-      "ibc_info": {},
-      "logo_URIs": {
-        "png": "",
-        "svg": ""
-      },
-      "urls": {},
-      "social_media": {},
-      "extra": {
-        "xrpl_info": {
-          "precision": 15,
-          "source_chain": "XRPL",
-          "issuer": "",
-          "currency": "636F7265756D3031626463663563663600000000"
-        }
-      }
     }
   ]
 }
