@@ -56,7 +56,7 @@
       "extra": {
         "xrpl_info": {
           "precision": 15,
-          "source_chain": "Coreum",
+          "source_chain": "TX",
           "issuer": "rxXXXeMX8Gy5YvibvGLnQJ1XKKD7UswM1",
           "currency": "636F7265756D3930356330393837333200000000"
         }
@@ -772,7 +772,7 @@
       "ibc_info": {
         "display_name": "SBC",
         "precision": 6,
-        "source_chain": "Coreum"
+        "source_chain": "TX"
       },
       "logo_URIs": {
         "png": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/sbc/images/sbc-logo.png",
@@ -874,7 +874,7 @@
       "extra": {
         "xrpl_info": {
           "precision": 15,
-          "source_chain": "Coreum",
+          "source_chain": "TX",
           "issuer": "rxXXXeMX8Gy5YvibvGLnQJ1XKKD7UswM1",
           "currency": "636F7265756D6139336233353935336500000000"
         }
@@ -962,7 +962,7 @@
       "extra": {
         "xrpl_info": {
           "precision": 15,
-          "source_chain": "Coreum",
+          "source_chain": "TX",
           "issuer": "rxXXXeMX8Gy5YvibvGLnQJ1XKKD7UswM1",
           "currency": "*TBD*"
         }
@@ -991,7 +991,7 @@
       "extra": {
         "xrpl_info": {
           "precision": 15,
-          "source_chain": "Coreum",
+          "source_chain": "TX",
           "issuer": "rxXXXeMX8Gy5YvibvGLnQJ1XKKD7UswM1",
           "currency": "636F7265756D3662326262646433316500000000"
         }
